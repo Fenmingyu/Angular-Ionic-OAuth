@@ -1,4 +1,4 @@
-var oauthApp = angular.module('oauthApp.controllers', []);
+
 oauthApp.controller('welcomeCtrl', function ($scope, $state, $cookieStore) {
 
     /**
